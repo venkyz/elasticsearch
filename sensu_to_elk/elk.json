@@ -1,0 +1,11 @@
+{
+  "handlers": {
+    "elk": {
+      "type": "udp",
+      "socket": {
+        "host": "filebeat.bytesoas.in",
+        "port": 5455,
+      }
+    }
+  }
+}
