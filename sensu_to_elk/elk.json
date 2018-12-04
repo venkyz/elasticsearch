@@ -3,7 +3,7 @@
     "elk": {
       "type": "udp",
       "socket": {
-        "host": "filebeat.bytesoas.in",
+        "host": "filebeat.rajtest.in",
         "port": 5455,
       }
     }
